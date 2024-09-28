@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #e48bcc;
+    background-color: #23082e;
     color: #97147b;
     font-family: 'Garamond', serif;
     font-size: 1.3rem;
@@ -21,10 +21,10 @@ header {
 }
 
 button, input[type="submit"] {
-    background-color: #de6abb;
+    background-color: #23082e;
     border: 1px solid transparent;
     border-radius: 0.25 rem;
-    color: #812374;
+    color: #b4abd4;
     font-size: 1.75rem;
     font-weight: 400;
     line-height: 1.5;
@@ -35,7 +35,7 @@ button, input[type="submit"] {
 }
 
 h1 {
-    background-color: #e48bcc;
+    background-color: #23082e;
     font-family: 'brush script mt', cursive;
     font-size: 66px;
     text-align: center;
@@ -51,7 +51,7 @@ h3 {
 }
 
 p {
-    background-color: #e48bcc;
+    background-color: #23082e;
     font-family: 'andale mono', monospace;
     font-size: 20px;
     text-align: center;
