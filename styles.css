@@ -50,6 +50,13 @@ h3 {
     border-style: solid;
 }
 
+p {
+    background-color: #B2E6DC;
+    font-family: 'andale mono', monospace;
+    font-size: 20px;
+    text-align: center;
+    border-style: solid;
+
 .column{
     float: left;
     width: 50%;
