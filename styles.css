@@ -1,24 +1,17 @@
 body {
-    background-color: #23082e;
-    color:#691262;
+    background-color: #abebdd;
+    color:#1b615b;
 }
 
-
-h1 {
-    color:aliceblue;
+nav .navbar-brand{
+    color:#278f86;
 }
 
-h2 {
-    color:aliceblue;
+nav .navbar {
+    background-color:#3b092e;
+    color:#278f8f;
 }
 
-h4 {
-    color:aliceblue;
-}
-
-p {
-    color:aliceblue;
-}
 
 .btn-bd-primary {
     --bs-btn-font-weight: 600;
