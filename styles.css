@@ -1,6 +1,6 @@
 body {
     background-color: #23082e;
-    color: #8c1497;
+    color: #bba0da;
     font-family: 'Garamond', serif;
     font-size: 1.5rem;
     font-weight: 900;
@@ -10,8 +10,8 @@ body {
 }
 
 header {
-    background-color: #23082e;
-    color: #97147b;
+    background-color: #5c2274;
+    color: #bba0da;
     font-family: 'Garamond', serif;
     font-size: 1.3rem;
     font-weight: 900;
@@ -52,6 +52,7 @@ h3 {
 
 p {
     background-color: #23082e;
+    color: #bba0da;
     font-family: 'andale mono', monospace;
     font-size: 20px;
     text-align: center;
